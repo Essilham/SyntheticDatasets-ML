@@ -22,7 +22,8 @@ This script generates labeled synthetic image datasets for machine learning expe
 1. Run the script to generate datasets:
 python generate_imagify.py
 
-![val_30_label_1](https://github.com/user-attachments/assets/68b66d18-d70b-4d7a-9e28-ce2686844d8d)
-![val_28_label_2](https://github.com/user-attachments/assets/d45d3ae2-2517-4298-9d25-a64bfa6e9727)
-![val_44_label_0](https://github.com/user-attachments/assets/f0eb9a5a-f653-46fc-9367-5a9a9ccd4cb1)
+
+<img width="227" alt="Screen Shot 2024-11-28 at 9 48 42 PM" src="https://github.com/user-attachments/assets/b415b9e5-cee2-45b4-84f5-3fe6f101b97e">
+<img width="229" alt="Screen Shot 2024-11-28 at 9 48 57 PM" src="https://github.com/user-attachments/assets/7aa0e4f0-136f-4af7-95c0-1a47241f0697">
+<img width="233" alt="Screen Shot 2024-11-28 at 9 49 09 PM" src="https://github.com/user-attachments/assets/2c51b01e-40c0-4882-9c2a-740bf05282c8">
 
