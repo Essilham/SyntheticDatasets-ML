@@ -25,5 +25,5 @@ python generate_imagify.py
 
 <img width="227" alt="Screen Shot 2024-11-28 at 9 48 42 PM" src="https://github.com/user-attachments/assets/b415b9e5-cee2-45b4-84f5-3fe6f101b97e">
 <img width="229" alt="Screen Shot 2024-11-28 at 9 48 57 PM" src="https://github.com/user-attachments/assets/7aa0e4f0-136f-4af7-95c0-1a47241f0697">
-<img width="233" alt="Screen Shot 2024-11-28 at 9 49 09 PM" src="https://github.com/user-attachments/assets/2c51b01e-40c0-4882-9c2a-740bf05282c8">
+<img width="231" alt="Screen Shot 2024-11-28 at 9 49 32 PM" src="https://github.com/user-attachments/assets/85173da0-de64-4444-a6cd-7f42acd84303">
 
