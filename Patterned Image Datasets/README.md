@@ -20,7 +20,7 @@ This script generates labeled synthetic image datasets for machine learning expe
 
 ## Example Usage
 1. Run the script to generate datasets:
-python generate_imagify.py
+python generate_imagefy.py
 
 
 <img width="227" alt="Screen Shot 2024-11-28 at 9 48 42 PM" src="https://github.com/user-attachments/assets/b415b9e5-cee2-45b4-84f5-3fe6f101b97e">
